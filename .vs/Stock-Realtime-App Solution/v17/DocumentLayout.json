@@ -1,0 +1,287 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\java\\Desktop\\CodeAlph Internship\\Task 2\\Stock-Realtime-App Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5464A3E1-C3B3-495B-9C97-576D00846FA5}|Stock-Realtime-App\\Stock-Realtime-App.csproj|c:\\users\\java\\desktop\\codealph internship\\task 2\\stock-realtime-app solution\\stock-realtime-app\\views\\stock\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5464A3E1-C3B3-495B-9C97-576D00846FA5}|Stock-Realtime-App\\Stock-Realtime-App.csproj|solutionrelative:stock-realtime-app\\views\\stock\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5464A3E1-C3B3-495B-9C97-576D00846FA5}|Stock-Realtime-App\\Stock-Realtime-App.csproj|c:\\users\\java\\desktop\\codealph internship\\task 2\\stock-realtime-app solution\\stock-realtime-app\\services\\istock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5464A3E1-C3B3-495B-9C97-576D00846FA5}|Stock-Realtime-App\\Stock-Realtime-App.csproj|solutionrelative:stock-realtime-app\\services\\istock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5464A3E1-C3B3-495B-9C97-576D00846FA5}|Stock-Realtime-App\\Stock-Realtime-App.csproj|c:\\users\\java\\desktop\\codealph internship\\task 2\\stock-realtime-app solution\\stock-realtime-app\\services\\stockservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5464A3E1-C3B3-495B-9C97-576D00846FA5}|Stock-Realtime-App\\Stock-Realtime-App.csproj|solutionrelative:stock-realtime-app\\services\\stockservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5464A3E1-C3B3-495B-9C97-576D00846FA5}|Stock-Realtime-App\\Stock-Realtime-App.csproj|c:\\users\\java\\desktop\\codealph internship\\task 2\\stock-realtime-app solution\\stock-realtime-app\\models\\stockdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5464A3E1-C3B3-495B-9C97-576D00846FA5}|Stock-Realtime-App\\Stock-Realtime-App.csproj|solutionrelative:stock-realtime-app\\models\\stockdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5464A3E1-C3B3-495B-9C97-576D00846FA5}|Stock-Realtime-App\\Stock-Realtime-App.csproj|c:\\users\\java\\desktop\\codealph internship\\task 2\\stock-realtime-app solution\\stock-realtime-app\\models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5464A3E1-C3B3-495B-9C97-576D00846FA5}|Stock-Realtime-App\\Stock-Realtime-App.csproj|solutionrelative:stock-realtime-app\\models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5464A3E1-C3B3-495B-9C97-576D00846FA5}|Stock-Realtime-App\\Stock-Realtime-App.csproj|c:\\users\\java\\desktop\\codealph internship\\task 2\\stock-realtime-app solution\\stock-realtime-app\\services\\stockdatafetcherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5464A3E1-C3B3-495B-9C97-576D00846FA5}|Stock-Realtime-App\\Stock-Realtime-App.csproj|solutionrelative:stock-realtime-app\\services\\stockdatafetcherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5464A3E1-C3B3-495B-9C97-576D00846FA5}|Stock-Realtime-App\\Stock-Realtime-App.csproj|c:\\users\\java\\desktop\\codealph internship\\task 2\\stock-realtime-app solution\\stock-realtime-app\\hubs\\stockhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5464A3E1-C3B3-495B-9C97-576D00846FA5}|Stock-Realtime-App\\Stock-Realtime-App.csproj|solutionrelative:stock-realtime-app\\hubs\\stockhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5464A3E1-C3B3-495B-9C97-576D00846FA5}|Stock-Realtime-App\\Stock-Realtime-App.csproj|c:\\users\\java\\desktop\\codealph internship\\task 2\\stock-realtime-app solution\\stock-realtime-app\\models\\finnhubresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5464A3E1-C3B3-495B-9C97-576D00846FA5}|Stock-Realtime-App\\Stock-Realtime-App.csproj|solutionrelative:stock-realtime-app\\models\\finnhubresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5464A3E1-C3B3-495B-9C97-576D00846FA5}|Stock-Realtime-App\\Stock-Realtime-App.csproj|c:\\users\\java\\desktop\\codealph internship\\task 2\\stock-realtime-app solution\\stock-realtime-app\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5464A3E1-C3B3-495B-9C97-576D00846FA5}|Stock-Realtime-App\\Stock-Realtime-App.csproj|solutionrelative:stock-realtime-app\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5464A3E1-C3B3-495B-9C97-576D00846FA5}|Stock-Realtime-App\\Stock-Realtime-App.csproj|c:\\users\\java\\desktop\\codealph internship\\task 2\\stock-realtime-app solution\\stock-realtime-app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5464A3E1-C3B3-495B-9C97-576D00846FA5}|Stock-Realtime-App\\Stock-Realtime-App.csproj|solutionrelative:stock-realtime-app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5464A3E1-C3B3-495B-9C97-576D00846FA5}|Stock-Realtime-App\\Stock-Realtime-App.csproj|c:\\users\\java\\desktop\\codealph internship\\task 2\\stock-realtime-app solution\\stock-realtime-app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5464A3E1-C3B3-495B-9C97-576D00846FA5}|Stock-Realtime-App\\Stock-Realtime-App.csproj|solutionrelative:stock-realtime-app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5464A3E1-C3B3-495B-9C97-576D00846FA5}|Stock-Realtime-App\\Stock-Realtime-App.csproj|c:\\users\\java\\desktop\\codealph internship\\task 2\\stock-realtime-app solution\\stock-realtime-app\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5464A3E1-C3B3-495B-9C97-576D00846FA5}|Stock-Realtime-App\\Stock-Realtime-App.csproj|solutionrelative:stock-realtime-app\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5464A3E1-C3B3-495B-9C97-576D00846FA5}|Stock-Realtime-App\\Stock-Realtime-App.csproj|c:\\users\\java\\desktop\\codealph internship\\task 2\\stock-realtime-app solution\\stock-realtime-app\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5464A3E1-C3B3-495B-9C97-576D00846FA5}|Stock-Realtime-App\\Stock-Realtime-App.csproj|solutionrelative:stock-realtime-app\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5464A3E1-C3B3-495B-9C97-576D00846FA5}|Stock-Realtime-App\\Stock-Realtime-App.csproj|c:\\users\\java\\desktop\\codealph internship\\task 2\\stock-realtime-app solution\\stock-realtime-app\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5464A3E1-C3B3-495B-9C97-576D00846FA5}|Stock-Realtime-App\\Stock-Realtime-App.csproj|solutionrelative:stock-realtime-app\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5464A3E1-C3B3-495B-9C97-576D00846FA5}|Stock-Realtime-App\\Stock-Realtime-App.csproj|c:\\users\\java\\desktop\\codealph internship\\task 2\\stock-realtime-app solution\\stock-realtime-app\\migrations\\20240603093546_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5464A3E1-C3B3-495B-9C97-576D00846FA5}|Stock-Realtime-App\\Stock-Realtime-App.csproj|solutionrelative:stock-realtime-app\\migrations\\20240603093546_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5464A3E1-C3B3-495B-9C97-576D00846FA5}|Stock-Realtime-App\\Stock-Realtime-App.csproj|c:\\users\\java\\desktop\\codealph internship\\task 2\\stock-realtime-app solution\\stock-realtime-app\\stock-realtime-app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5464A3E1-C3B3-495B-9C97-576D00846FA5}|Stock-Realtime-App\\Stock-Realtime-App.csproj|solutionrelative:stock-realtime-app\\stock-realtime-app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StockData.cs",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\CodeAlph Internship\\Task 2\\Stock-Realtime-App Solution\\Stock-Realtime-App\\Models\\StockData.cs",
+              "RelativeDocumentMoniker": "Stock-Realtime-App\\Models\\StockData.cs",
+              "ToolTip": "C:\\Users\\java\\Desktop\\CodeAlph Internship\\Task 2\\Stock-Realtime-App Solution\\Stock-Realtime-App\\Models\\StockData.cs",
+              "RelativeToolTip": "Stock-Realtime-App\\Models\\StockData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T16:40:57.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StockDataFetcherService.cs",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\CodeAlph Internship\\Task 2\\Stock-Realtime-App Solution\\Stock-Realtime-App\\Services\\StockDataFetcherService.cs",
+              "RelativeDocumentMoniker": "Stock-Realtime-App\\Services\\StockDataFetcherService.cs",
+              "ToolTip": "C:\\Users\\java\\Desktop\\CodeAlph Internship\\Task 2\\Stock-Realtime-App Solution\\Stock-Realtime-App\\Services\\StockDataFetcherService.cs",
+              "RelativeToolTip": "Stock-Realtime-App\\Services\\StockDataFetcherService.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwCAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T15:42:22.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\CodeAlph Internship\\Task 2\\Stock-Realtime-App Solution\\Stock-Realtime-App\\Views\\Stock\\Index.cshtml",
+              "RelativeDocumentMoniker": "Stock-Realtime-App\\Views\\Stock\\Index.cshtml",
+              "ToolTip": "C:\\Users\\java\\Desktop\\CodeAlph Internship\\Task 2\\Stock-Realtime-App Solution\\Stock-Realtime-App\\Views\\Stock\\Index.cshtml",
+              "RelativeToolTip": "Stock-Realtime-App\\Views\\Stock\\Index.cshtml",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAuwGQAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T10:06:07.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StockService.cs",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\CodeAlph Internship\\Task 2\\Stock-Realtime-App Solution\\Stock-Realtime-App\\Services\\StockService.cs",
+              "RelativeDocumentMoniker": "Stock-Realtime-App\\Services\\StockService.cs",
+              "ToolTip": "C:\\Users\\java\\Desktop\\CodeAlph Internship\\Task 2\\Stock-Realtime-App Solution\\Stock-Realtime-App\\Services\\StockService.cs",
+              "RelativeToolTip": "Stock-Realtime-App\\Services\\StockService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T09:38:21.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\CodeAlph Internship\\Task 2\\Stock-Realtime-App Solution\\Stock-Realtime-App\\Program.cs",
+              "RelativeDocumentMoniker": "Stock-Realtime-App\\Program.cs",
+              "ToolTip": "C:\\Users\\java\\Desktop\\CodeAlph Internship\\Task 2\\Stock-Realtime-App Solution\\Stock-Realtime-App\\Program.cs",
+              "RelativeToolTip": "Stock-Realtime-App\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T09:34:03.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StockHub.cs",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\CodeAlph Internship\\Task 2\\Stock-Realtime-App Solution\\Stock-Realtime-App\\Hubs\\StockHub.cs",
+              "RelativeDocumentMoniker": "Stock-Realtime-App\\Hubs\\StockHub.cs",
+              "ToolTip": "C:\\Users\\java\\Desktop\\CodeAlph Internship\\Task 2\\Stock-Realtime-App Solution\\Stock-Realtime-App\\Hubs\\StockHub.cs",
+              "RelativeToolTip": "Stock-Realtime-App\\Hubs\\StockHub.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAgwBMAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T10:08:36.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IStock.cs",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\CodeAlph Internship\\Task 2\\Stock-Realtime-App Solution\\Stock-Realtime-App\\Services\\IStock.cs",
+              "RelativeDocumentMoniker": "Stock-Realtime-App\\Services\\IStock.cs",
+              "ToolTip": "C:\\Users\\java\\Desktop\\CodeAlph Internship\\Task 2\\Stock-Realtime-App Solution\\Stock-Realtime-App\\Services\\IStock.cs",
+              "RelativeToolTip": "Stock-Realtime-App\\Services\\IStock.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T10:20:29.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Stock.cs",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\CodeAlph Internship\\Task 2\\Stock-Realtime-App Solution\\Stock-Realtime-App\\Models\\Stock.cs",
+              "RelativeDocumentMoniker": "Stock-Realtime-App\\Models\\Stock.cs",
+              "ToolTip": "C:\\Users\\java\\Desktop\\CodeAlph Internship\\Task 2\\Stock-Realtime-App Solution\\Stock-Realtime-App\\Models\\Stock.cs",
+              "RelativeToolTip": "Stock-Realtime-App\\Models\\Stock.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA7wBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T09:28:23.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FinnhubResponse.cs",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\CodeAlph Internship\\Task 2\\Stock-Realtime-App Solution\\Stock-Realtime-App\\Models\\FinnhubResponse.cs",
+              "RelativeDocumentMoniker": "Stock-Realtime-App\\Models\\FinnhubResponse.cs",
+              "ToolTip": "C:\\Users\\java\\Desktop\\CodeAlph Internship\\Task 2\\Stock-Realtime-App Solution\\Stock-Realtime-App\\Models\\FinnhubResponse.cs",
+              "RelativeToolTip": "Stock-Realtime-App\\Models\\FinnhubResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T09:47:25.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\CodeAlph Internship\\Task 2\\Stock-Realtime-App Solution\\Stock-Realtime-App\\appsettings.json",
+              "RelativeDocumentMoniker": "Stock-Realtime-App\\appsettings.json",
+              "ToolTip": "C:\\Users\\java\\Desktop\\CodeAlph Internship\\Task 2\\Stock-Realtime-App Solution\\Stock-Realtime-App\\appsettings.json",
+              "RelativeToolTip": "Stock-Realtime-App\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-03T09:31:36.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\CodeAlph Internship\\Task 2\\Stock-Realtime-App Solution\\Stock-Realtime-App\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Stock-Realtime-App\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\java\\Desktop\\CodeAlph Internship\\Task 2\\Stock-Realtime-App Solution\\Stock-Realtime-App\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Stock-Realtime-App\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T16:01:29.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StockController.cs",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\CodeAlph Internship\\Task 2\\Stock-Realtime-App Solution\\Stock-Realtime-App\\Controllers\\StockController.cs",
+              "RelativeDocumentMoniker": "Stock-Realtime-App\\Controllers\\StockController.cs",
+              "ToolTip": "C:\\Users\\java\\Desktop\\CodeAlph Internship\\Task 2\\Stock-Realtime-App Solution\\Stock-Realtime-App\\Controllers\\StockController.cs",
+              "RelativeToolTip": "Stock-Realtime-App\\Controllers\\StockController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAQwBAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T10:03:34.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\CodeAlph Internship\\Task 2\\Stock-Realtime-App Solution\\Stock-Realtime-App\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Stock-Realtime-App\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\java\\Desktop\\CodeAlph Internship\\Task 2\\Stock-Realtime-App Solution\\Stock-Realtime-App\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Stock-Realtime-App\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T10:16:24.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20240603093546_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\CodeAlph Internship\\Task 2\\Stock-Realtime-App Solution\\Stock-Realtime-App\\Migrations\\20240603093546_Initial.cs",
+              "RelativeDocumentMoniker": "Stock-Realtime-App\\Migrations\\20240603093546_Initial.cs",
+              "ToolTip": "C:\\Users\\java\\Desktop\\CodeAlph Internship\\Task 2\\Stock-Realtime-App Solution\\Stock-Realtime-App\\Migrations\\20240603093546_Initial.cs",
+              "RelativeToolTip": "Stock-Realtime-App\\Migrations\\20240603093546_Initial.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T09:35:46.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\CodeAlph Internship\\Task 2\\Stock-Realtime-App Solution\\Stock-Realtime-App\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Stock-Realtime-App\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\java\\Desktop\\CodeAlph Internship\\Task 2\\Stock-Realtime-App Solution\\Stock-Realtime-App\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "Stock-Realtime-App\\Models\\AppDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T09:33:07.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Stock-Realtime-App.csproj",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\CodeAlph Internship\\Task 2\\Stock-RealTime-App Solution\\Stock-Realtime-App\\Stock-Realtime-App.csproj",
+              "RelativeDocumentMoniker": "Stock-Realtime-App\\Stock-Realtime-App.csproj",
+              "ToolTip": "C:\\Users\\java\\Desktop\\CodeAlph Internship\\Task 2\\Stock-RealTime-App Solution\\Stock-Realtime-App\\Stock-Realtime-App.csproj",
+              "RelativeToolTip": "Stock-Realtime-App\\Stock-Realtime-App.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-03T09:29:51.094Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

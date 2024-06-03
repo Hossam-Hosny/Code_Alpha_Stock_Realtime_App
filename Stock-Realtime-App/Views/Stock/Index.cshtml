@@ -1,0 +1,105 @@
+﻿@model Stock_Realtime_App.Models.Stock
+
+<div class="container mt-4">
+    <h2>Stock Data for @Model.Symbol</h2>
+    <div class="row">
+        <div class="col-md-4 mb-3">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">Current Price</h5>
+                    <p class="card-text"><span id="stockPrice">@Model.CurrentPrice</span></p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4 mb-3">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">High Price</h5>
+                    <p class="card-text">@Model.HighPrice</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4 mb-3">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">Low Price</h5>
+                    <p class="card-text">@Model.LowPrice</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4 mb-3">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">Open Price</h5>
+                    <p class="card-text">@Model.OpenPrice</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4 mb-3">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">Previous Close Price</h5>
+                    <p class="card-text">@Model.PreviousClosePrice</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <canvas id="stockChart" width="400" height="200"></canvas>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/microsoft-signalr/5.0.11/signalr.min.js"></script>
+<script>
+    const connection = new signalR.HubConnectionBuilder()
+        .withUrl("/stockHub")
+        .build();
+
+    connection.on("ReceiveStockUpdate", (symbol, price) => {
+        console.log(`Stock update: ${symbol} - ${price}`);
+        // Update the UI with the new stock data
+        document.getElementById("stockPrice").innerText = price;
+
+        // Update the chart data
+        stockChart.data.labels.push(new Date());
+        stockChart.data.datasets[0].data.push(price);
+        stockChart.update();
+    });
+
+    connection.start().then(function () {
+        console.log("SignalR connected");
+    }).catch(function (err) {
+        console.error("SignalR connection error: " + err.toString());
+    });
+
+    const ctx = document.getElementById('stockChart').getContext('2d');
+    const stockChart = new Chart(ctx, {
+        type: 'line',
+        data: {
+            labels: [], // Time labels
+            datasets: [{
+                label: 'Stock Price',
+                data: [], // Stock prices
+                borderColor: 'rgba(75, 192, 192, 1)',
+                borderWidth: 1
+            }]
+        },
+        options: {
+            scales: {
+                x: {
+                    type: 'time',
+                    time: {
+                        unit: 'minute'
+                    }
+                }
+            }
+        }
+    });
+
+    // Example to send stock updates
+    function sendStockUpdateAsync(symbol, price) {
+        connection.invoke("SendStockUpdateAsync", symbol, price)
+            .catch(err => console.error(err.toString()));
+    }
+</script>
+
